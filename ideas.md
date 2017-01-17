@@ -7,3 +7,4 @@
 * unsearchable PDFs that are typed
 * building software on across OS platforms
 * git explanation and tutorial
+* latex tool that works with google drive.
