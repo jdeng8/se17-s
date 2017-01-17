@@ -8,3 +8,4 @@
 * building software on across OS platforms
 * git explanation and tutorial
 * latex tool that works with google drive.
+* URL shortener that works with arbitrary addresses (your website rather than tiny.cc)
