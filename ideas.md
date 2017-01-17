@@ -6,3 +6,4 @@
 * Finding parking in downtown Raleigh
 * unsearchable PDFs that are typed
 * building software on across OS platforms
+* git explanation and tutorial
