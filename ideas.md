@@ -13,3 +13,4 @@
 
 * tool to post slack messages as github issues
     - [Github issues api](https://developer.github.com/v3/issues/)
+* A calendar events tool with multiple ways of rearranging events(input info, mouse draging, etc)
